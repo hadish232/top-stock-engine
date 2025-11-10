@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+yfinance
+scikit-learn
+torch
+torchvision
+transformers
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+requests
+torch-geometric    # optional; may require extra install steps in CI
